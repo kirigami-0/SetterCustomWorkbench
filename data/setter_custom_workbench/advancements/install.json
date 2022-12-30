@@ -6,6 +6,6 @@
     }
   },
   "rewards": {
-    "function": "cc_rei_dev:install"
+    "function": "setter_custom_workbench:install"
   }
 }
