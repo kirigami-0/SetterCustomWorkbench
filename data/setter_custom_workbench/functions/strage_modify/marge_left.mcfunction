@@ -31,5 +31,7 @@ execute unless data storage setter_custom_workbench: {_: {temp: []}} run data re
 execute unless data storage setter_custom_workbench: {_: {temp: []}} run data modify storage setter_custom_workbench: _.shapeless.2.2 set from storage setter_custom_workbench: _.temp[0]
 # データを置き換える
 data modify storage setter_custom_workbench: _.recipe set from storage setter_custom_workbench: _.shapeless
-
+# tempを削除する
+data remove storage setter_custom_workbench: _.temp
+data remove storage setter_custom_workbench: _.shapeless
 
