@@ -1,6 +1,6 @@
 # SetterCustomWorkbench
   
-[CustomWorkbench](https://github.com/kirigami-0/custom_workbench) のアドオン  
+[CustomWorkbench](https://github.com/kirigami-0/CustomWorkbench) のアドオン  
 カスタム作業台のレシピをセットするデータパック。  
   
 ## 動作確認済みバージョン
@@ -8,7 +8,7 @@
   
 ## 依存ライブラリ
 - setter_custom_workbench
-  - [CustomWorkbench](https://github.com/kirigami-0/custom_workbench)
+  - [CustomWorkbench](https://github.com/kirigami-0/CustomWorkbench)
   
 ## 使い方 / How to use
 ### レシピセット用のタルを召喚する  
