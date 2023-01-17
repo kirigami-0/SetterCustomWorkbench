@@ -1,6 +1,6 @@
 # SetterCustomWorkbench
   
-Addons for [CustomWorkbench](https://github.com/kirigami-0/CC_rei).  
+Addons for [CustomWorkbench](https://github.com/kirigami-0/custom_workbench).  
 A data pack containing recipes for custom workbenches.
   
 ## Operation confirmed version
@@ -8,7 +8,7 @@ A data pack containing recipes for custom workbenches.
   
 ## dependent library
 - setter_custom_workbench
-  - [CustomWorkbench](https://github.com/kirigami-0/CC_rei)
+  - [CustomWorkbench](https://github.com/kirigami-0/custom_workbench)
   
 ## How to use
 ### Summon barrels for recipe sets.
